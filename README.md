@@ -13,4 +13,4 @@ Openmaptiles example : OSM bright gl style
 
 * Resource 
 
-this project use PPTIK (http://github.com/pptik) vector map server (see `style.json`). You can use your own server or free tile hosting at tilehosting.com
+this project use PPTIK (http://github.com/pptik) vector map server (see `style.json`). You can use your own server or free tile hosting at http://tilehosting.com
